@@ -1,0 +1,4 @@
+public class demo {
+    string str1 ='abhihek';
+    sttring str2 ='kumar';
+}
